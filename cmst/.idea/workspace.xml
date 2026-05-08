@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9955e3a6-2e27-49cb-8832-fc3540da4245" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherCom/Attendance/Attedance.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/TeacherCom/Attendance/Attedance.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherCom/Attendance/Perioud.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/TeacherCom/Attendance/Perioud.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherCom/Schedule/ScheduleCom.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/TeacherCom/Schedule/ScheduleCom.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherCom/intro/Sem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/TeacherCom/intro/Sem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/API/api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/API/api.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/constant/imagepath_t.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/constant/imagepath_t.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/screen/(tabs)/attendance.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/screen/(tabs)/attendance.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/screen/introduction/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/screen/introduction/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/screen/pages/Previous.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/screen/pages/Previous.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/screen/pages/outbox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/screen/pages/outbox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/previous/SubjectAttedence.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/pages/previous/SubjectAttedence.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/profile/ProfileCom.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/pages/profile/ProfileCom.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/pages/profile/Settings.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/pages/profile/Settings.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2zwIeSQrazT4RAQyREJS68qPobG" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;sanjo&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/cmst&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9955e3a6-2e27-49cb-8832-fc3540da4245" name="Changes" comment="" />
+      <created>1752635803270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752635803270</updated>
+    </task>
+    <servers />
+  </component>
+</project>

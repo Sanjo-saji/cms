@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "cmst",
+    "slug": "cmst",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/BackArrow.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/BackArrow.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gladvin.cmst"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/BackArrow.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/BackArrow.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ],
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "29dfa720-81f7-4725-9091-fea181a6514f"
+      }
+    }
+  }
+}

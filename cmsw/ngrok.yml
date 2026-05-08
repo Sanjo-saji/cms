@@ -1,0 +1,8 @@
+# ngrok.yml
+version: "2"
+tunnels:
+  cms:
+    proto: http
+    addr: 3000
+    domain: miserably-arriving-adder.ngrok-free.app
+    inspect: false

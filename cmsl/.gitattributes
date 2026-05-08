@@ -1,0 +1,5 @@
+# Auto normalize line endings
+* text=auto
+# Always use LF for all text files
+* text=auto eol=lf
+
